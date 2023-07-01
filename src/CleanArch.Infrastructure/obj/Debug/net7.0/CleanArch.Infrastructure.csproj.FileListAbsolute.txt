@@ -1,0 +1,17 @@
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.deps.json
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Infrastructure.pdb
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.AssemblyInfo.cs
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\refint\CleanArch.Infrastructure.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.pdb
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\ref\CleanArch.Infrastructure.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Application.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Domain.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Application.pdb
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\bin\Debug\net7.0\CleanArch.Domain.pdb
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Infrastructure\obj\Debug\net7.0\CleanArch.Infrastructure.csproj.CopyComplete

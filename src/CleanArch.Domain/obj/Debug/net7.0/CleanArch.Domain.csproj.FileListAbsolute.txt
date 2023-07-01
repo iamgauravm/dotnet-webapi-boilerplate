@@ -1,0 +1,12 @@
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\bin\Debug\net7.0\CleanArch.Domain.deps.json
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\bin\Debug\net7.0\CleanArch.Domain.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\bin\Debug\net7.0\CleanArch.Domain.pdb
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\CleanArch.Domain.csproj.AssemblyReference.cache
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\CleanArch.Domain.AssemblyInfoInputs.cache
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\CleanArch.Domain.AssemblyInfo.cs
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\CleanArch.Domain.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\refint\CleanArch.Domain.dll
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\CleanArch.Domain.pdb
+E:\GauravM\dotnet-webapi-boilerplate\src\CleanArch.Domain\obj\Debug\net7.0\ref\CleanArch.Domain.dll
